@@ -26,3 +26,5 @@ Imports:
     StructuralVariantAnnotation,
     tidyr,
     utils
+URL: https://github.com/micoli98/FeatureR
+BugReports: https://github.com/micoli98/FeatureR/issues
