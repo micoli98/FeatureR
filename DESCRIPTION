@@ -1,0 +1,28 @@
+Package: FeatureR
+Title: Features Calculation for Signatures Extraction
+Version: 0.0.0.9001
+Authors@R: 
+    person("Giulia", "Micoli", , "giulia.micoli@helsinki.fi", role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0003-9541-8177"))
+Description: What the package does (one paragraph).
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    BAMMtools,
+    cluster,
+    dplyr,
+    flexmix,
+    ggplot2,
+    graphics,
+    magrittr,
+    mclust,
+    purrr,
+    RColorBrewer,
+    ShatterSeek,
+    stats,
+    StructuralVariantAnnotation,
+    tidyr,
+    utils
